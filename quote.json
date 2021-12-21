@@ -14,3 +14,10 @@
 
   //-->
   </script>
+{
+ - List: [
+  - {
+      quote: text;
+    }
+  ].
+}
