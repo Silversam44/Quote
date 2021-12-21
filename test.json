@@ -1,15 +1,9 @@
 {
-    "firstName": "Rack",
-    "lastName": "jackson",
-    "gender": "man",
-    "age": 24,
-    "address": {
-        "streetAddress": "126 Udhna",
-        "city": "san jone",
-        "state": "CA",
-        "postalCode": "394221"
+    "Quotes": {
+        "0": "126 Udhna",
+        "1": "san jone",
+        "2": "CA",
+        "3": "394221"
     },
-    "phoneNumbers": [
-        { "type": "home", "number": "7383627627" }
-    ]
+
 }
