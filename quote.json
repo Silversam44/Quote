@@ -9,9 +9,9 @@
   Quotes[4] = "I'd be safe and warm";
   Quotes[5] = "If I was in L.A.";
   Quotes[6] = "California dreaming, On such a winter's day";
-  num i = Math.floor(7*Math.random())
+  var i = Math.floor(7*Math.random())
 
-
+  var text = Quotes[i];
 
   //-->
   </script>
