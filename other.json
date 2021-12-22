@@ -2,7 +2,7 @@
     "firstName": "Rack",
     "lastName": "jackson",
     "gender": "man",
-    "age": 24
+    "age": 24,
     
     var i = Math.floor(7*Math.random());
 }
