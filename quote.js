@@ -11,13 +11,8 @@
   var i = Math.floor(7*Math.random())
 
   var text = Quotes[i];
+  console.log(text);
 
   //-->
   </script>
-{
- - List: [
-  - {
-      quote: text;
-    }
-  ].
 }
