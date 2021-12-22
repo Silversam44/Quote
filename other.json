@@ -4,5 +4,5 @@
     "gender": "man",
     "age": 24
     
-    var i = Math.floor(7*Math.random())
+    var i = Math.floor(7*Math.random());
 }
